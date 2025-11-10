@@ -10,7 +10,7 @@ to withdraw money,deposit.
 ### UML DIAGRAMS:
 ## USE CASE DIAGRAM
 
-<img width="925" height="988" alt="Screenshot 2025-08-25 161811" src="https://github.com/user-attachments/assets/f945548d-acae-4163-bece-9e8180db8ae5" />
+<img width="1277" height="1067" alt="Screenshot 2025-11-10 090430" src="https://github.com/user-attachments/assets/2c99591d-8073-4814-b429-9c5dcd8ef46c" />
  
  ## CLASS DIAGRAM
  
@@ -22,7 +22,7 @@ to withdraw money,deposit.
 
 ## ACTIVITY DIAGRAM
 
-<img width="722" height="926" alt="Screenshot 2025-08-25 161916" src="https://github.com/user-attachments/assets/f9256a21-9e94-47f4-bbda-8ba4e65372ae" />
+<img width="1278" height="934" alt="Screenshot 2025-11-10 090548" src="https://github.com/user-attachments/assets/8b90b174-cd7b-44de-b48a-3ccf4544c6a4" />
 
 ## PACKAGE DIAGRAM
 
